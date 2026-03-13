@@ -4,7 +4,7 @@ Resource    ${CURDIR}/../resources/common.resource
 *** Variables ***
 ${project_id}        101459
 ${suite_id}          173896
-${pat}               ${EMPTY}  # add as secret variable
+${pat}               ${EMPTY}  # add as secret variable.
 
 *** Test Cases ***
 Run Test Jobs
